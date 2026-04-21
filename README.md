@@ -184,8 +184,49 @@ If you use this work, please cite:
 # Declaration of AI Use
 
 We acknowledge the use of Claude Opus 4.6 AI and ChatGPT 5.2 tools to support our understanding and assist with coding, particularly in implementing the project in Python.
-​
 
+## References
+
+- P. B. Jensen et al., "Mining electronic health records: towards better research applications and clinical care," Nat. Rev. Genet., vol. 13, no. 6, pp. 395–405, 2012.​
+​
+- I. J. Marshall and B. C. Wallace, "Toward systematic review automation: a practical guide to using machine learning tools in research synthesis," Syst. Rev., vol. 8, no. 163, 2019.​
+​
+- F. Dernoncourt and J. Y. Lee, "PubMed 200k RCT: a dataset for sequential sentence classification in medical abstracts," arXiv:1710.06071, 2017.​
+​
+- S. Hochreiter and J. Schmidhuber, "Long short-term memory," Neural Comput., vol. 9, no. 8, pp. 1735–1780, 1997.​
+​
+- Y. Gu et al., "Domain-specific language model pretraining for biomedical natural language processing," ACM Trans. Comput. Healthcare, vol. 3, no. 1, pp. 1–23, 2022.​
+​
+- G. Guyatt et al., "Users' guides to the medical literature: IX. A method for grading health care recommendations," JAMA, vol. 274, no. 22, pp. 1800–1804, 1995.​
+​
+- A. Merity et al., "Regularizing and optimizing LSTM language models," in ICLR, 2018.​
+​
+- D. Jin and P. Szolovits, "Hierarchical neural networks for sequential sentence classification in medical scientific abstracts," in EMNLP, 2018, pp. 3100–3109.​
+​
+- I. Beltagy, K. Lo, and A. Cohan, "SciBERT: A pretrained language model for scientific text," in EMNLP, 2019.​
+​
+- J. Lee et al., "BioBERT: a pre-trained biomedical language representation model for biomedical text mining," Bioinformatics, vol. 36, no. 4, pp. 1234–1240, 2020.
+
+- A. Cohan et al., "A discourse-aware attention model for abstractive summarization of long documents," in NAACL-HLT, 2018.​
+​
+- K. Huang et al., "Clinical XLNet: Modeling sequential clinical notes and predicting prolonged mechanical ventilation," in ACL BioNLP, 2020.​
+​
+- A. Mulyar, E. Ozler, and M. Finlayson, "MT-clinical BERT: scaling clinical information extraction with multitask learning," J. Am. Med. Inform. Assoc., vol. 28, no. 10, pp. 2108–2115, 2021.​
+​
+- M. Agarwal and H. Yu, "Automatically classifying sentences in full-text biomedical articles into introduction, methods, results and discussion," Bioinformatics, vol. 25, no. 23, pp. 3174–3180, 2009.​
+​
+- B. C. Wallace et al., "Extracting PICO sentences from clinical trial reports using supervised distant supervision," J. Mach. Learn. Res., vol. 17, no. 1, pp. 4572–4596, 2016.​
+​
+- J. Devlin et al., "BERT: Pre-training of deep bidirectional transformers for language understanding," in NAACL-HLT, 2019.​
+​
+- A. Paszke et al., "PyTorch: An imperative style, high-performance deep learning library," in NeurIPS, 2019.​
+​
+- T. Wolf et al., "HuggingFace's Transformers: State-of-the-art natural language processing," in EMNLP, 2020.​
+​
+- F. Pedregosa et al., "Scikit-learn: Machine learning in Python," JMLR, vol. 12, pp. 2825–2830, 2011.​
+​
+- M. E. Peters et al., "Deep contextualized word representations," in NAACL-HLT, 2018.
+​
 ## Disclaimer
 
 This project is for research and educational use only. It is not a clinical decision support tool.
