@@ -145,6 +145,10 @@ Optional:
 
 Joseph Luper Tsenum: PhD Researcher in Biomedical Engineering (Modeling and Biomedical Data Science Specialization), University of Florida. Joseph develops Generative AI platforms for designing novel oligonucleotides and applies machine learning methods to biomedical data analysis and drug discovery.
 
+Haibin Fan: Master’s Student in Biomedical Engineering (Medical Imaging and AI), University of Florida. Haibin works on medical imaging analysis and develops data-driven models for clinical applications, including ultrasound treatment planning and healthcare prediction tasks.
+
+Ayushi Elhence: Fourth-year undergraduate student in Biomedical Engineering at the University of Florida.
+
 ## Team Contributions
 
 | Member | Contributions |
