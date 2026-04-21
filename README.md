@@ -181,6 +181,11 @@ If you use this work, please cite:
 }
 ```
 
+# Declaration of AI Use
+
+We acknowledge the use of Claude Opus 4.6 AI and ChatGPT 5.2 tools to support our understanding and assist with coding, particularly in implementing the project in Python.
+​
+
 ## Disclaimer
 
 This project is for research and educational use only. It is not a clinical decision support tool.
