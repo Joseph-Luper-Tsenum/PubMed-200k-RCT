@@ -183,7 +183,7 @@ If you use this work, please cite:
 
 # Declaration of AI Use
 
-We acknowledge the use of Claude Opus 4.6 AI and ChatGPT 5.2 tools to support our understanding and assist with coding, particularly in implementing the project in Python.
+We acknowledge the use of Claude Sonnet 4.6 and GitHub Copilot AI tools to support our understanding and assist with coding, particularly in implementing the PyTorch training loops, HuggingFace integration, and visualization code. All model design decisions, hyperparameter choices, and analytical interpretations are our own. 
 
 ## References
 
