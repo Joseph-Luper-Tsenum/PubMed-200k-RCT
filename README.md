@@ -149,9 +149,9 @@ Joseph Luper Tsenum: PhD Researcher in Biomedical Engineering (Modeling and Biom
 
 | Member | Contributions |
 |---|---|
-| Joseph L. Tsenum | Pipeline architecture, model training, transfer learning, Grad-CAM implementation, report writing, GitHub management |
-| Haibin Fan | Transfer learning setup, hyperparameter tuning, training dynamics analysis, report writing |
-| Ayushi Elhence | Data exploration, augmentation strategy, literature review, evaluation analysis |
+| Joseph L. Tsenum | Pipeline architecture, model training, transformer fine-tune model implementation, report writing, GitHub management |
+| Haibin Fan | Transformer fine-tune model setup, hyperparameter tuning, training dynamics analysis, report writing |
+| Ayushi Elhence | Data exploration, literature review, evaluation analysis |
 
 ## Collaboration
 
